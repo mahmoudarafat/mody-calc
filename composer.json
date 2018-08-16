@@ -3,7 +3,7 @@
     "description": "testing",
     "type": "package",
     "keywords": ["laravel","math","test"],
-    "license" "MIT".
+    "license" "MIT",
     "require": {
         "php": ">= 5.3.0"
     },
