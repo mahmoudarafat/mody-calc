@@ -1,12 +1,22 @@
 {
-    "name": "mody/calc",
+   "name": "mody/calc",
     "description": "testing",
+    "type": "package",
+    "keywords": ["laravel","math","test"],
+    "license" "MIT".
+    "require": {
+        "php": ">= 5.3.0"
+    },
     "authors": [
         {
             "name": "mahmoudarafat",
             "email": "mahmoudarafat33@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "autoload": {
+        "psr-4": {
+            "mody\\calc\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
 }
