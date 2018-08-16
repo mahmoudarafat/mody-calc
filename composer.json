@@ -1,7 +1,6 @@
 {
     "name": "mody/calc",
     "description": "testing",
-    "type": "composer-plugin",
     "authors": [
         {
             "name": "mahmoudarafat",
