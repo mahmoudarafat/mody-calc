@@ -1,0 +1,13 @@
+{
+    "name": "mody/calc",
+    "description": "testing",
+    "type": "composer-plugin",
+    "authors": [
+        {
+            "name": "mahmoudarafat",
+            "email": "mahmoudarafat33@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
